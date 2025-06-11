@@ -272,19 +272,19 @@ body {
             content: 'Kitty';
         }
         .panels_c48ade::after {
-            content: 'Profile';
+            content: 'user';
         }
         .sidebarList_c48ade::after {
-            content: 'Chats';
+            content: 'channels';
         }
         .subtitleContainer_f75fb0::after {
-            content: '';
+            content: 'channel';
         }
         .messagesWrapper__36d07::after {
             content: 'chat';
         }
         .channelTextArea_f75fb0::after {
-            content: 'Message';
+            content: 'input';
         }
         .container_c8ffbb::after,
         .content_f75fb0 > .membersWrap_c8ffbb::after {
