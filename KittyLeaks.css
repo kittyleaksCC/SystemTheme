@@ -269,22 +269,22 @@ body {
         }
 
         .guilds_c48ade::after {
-            content: 'Kitty';
+            content: 'KittyLeaks';
         }
         .panels_c48ade::after {
-            content: 'user';
+            content: 'Profile';
         }
         .sidebarList_c48ade::after {
             content: 'channels';
         }
         .subtitleContainer_f75fb0::after {
-            content: 'channel';
+            content: '';
         }
         .messagesWrapper__36d07::after {
             content: 'chat';
         }
         .channelTextArea_f75fb0::after {
-            content: 'input';
+            content: 'Message';
         }
         .container_c8ffbb::after,
         .content_f75fb0 > .membersWrap_c8ffbb::after {
