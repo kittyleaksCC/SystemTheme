@@ -280,7 +280,7 @@ body {
             content: 'chat';
         }
         .channelTextArea_f75fb0::after {
-            content: 'input';
+            content: 'Message';
         }
         .container_c8ffbb::after,
         .content_f75fb0 > .membersWrap_c8ffbb::after {
