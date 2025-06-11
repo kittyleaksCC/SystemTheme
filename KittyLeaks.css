@@ -271,7 +271,7 @@ body {
             content: 'user';
         }
         .sidebarList_c48ade::after {
-            content: 'channels';
+            content: '';
         }
         .subtitleContainer_f75fb0::after {
             content: 'channel';
@@ -287,10 +287,10 @@ body {
             content: 'members';
         }
         .container__133bf > .container__9293f:after {
-            content: 'friends';
+            content: '';
         }
         .peopleColumn__133bf::after {
-            content: 'list';
+            content: 'Friend list';
         }
         .nowPlayingColumn__133bf::after {
             content: 'activity';
